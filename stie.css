@@ -1,0 +1,51 @@
+div{
+    text-align: center;
+    
+}
+.f{
+    background-color: orangered;
+    padding: 70px;
+
+
+}
+.a{
+    background-color: blue;
+    width: 50%;
+    padding: 70px 0px ;
+
+}
+.b{
+    
+    background-color: green;
+    width: 50%;
+    padding: 70px 0px ;
+  
+    
+}  
+.c{
+    
+    background-color:red ;
+    padding: 70px 0px ;
+    width: 33.3333%;
+}
+.d{
+  
+    background:yellow ;
+    padding: 70px 0px ;
+    width: 33.3333%;
+}
+.e{
+     background-color: purple;
+     padding: 70px 0px ;
+     width: 33.3333%;
+}
+.body{
+width: 1500px;
+
+
+}
+.ab ,.cde{
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+} 
